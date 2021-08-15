@@ -6,15 +6,14 @@ export default class Languages extends Component {
         languages: [
             {id: 1, value: "Javascript", xp:1.5},
             {id: 2, value: "Typescript", xp:2},
-            {id: 3, value: "CSS", xp: 0.5},
-            {id: 4, value: "Back-end", xp: 2}
+            {id: 3, value: "CSS/Sass", xp: 0.5},
+            {id: 4, value: "C/C++", xp: 2},
         ],
         frameworks: [
             {id: 1, value: "NestJS", xp: 2},
             {id: 2, value: "ReactJs", xp: 0.5},
             {id: 3, value: "Flutter", xp: 0.5},
             {id: 4, value: "PostgreSQL", xp: 2},
-            {id: 5, value: "mongoDB", xp: 1}
         ]
     }
 
